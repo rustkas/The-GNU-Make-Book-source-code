@@ -1,0 +1,1 @@
+Check if `eval` function is avalable

@@ -1,0 +1,1 @@
+$(info FOO value = $(FOO), FOO status = $(origin FOO))

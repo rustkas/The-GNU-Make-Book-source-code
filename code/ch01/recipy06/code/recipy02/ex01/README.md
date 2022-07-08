@@ -1,0 +1,1 @@
+To check if a specific feature is available, you can use `is_feature` function

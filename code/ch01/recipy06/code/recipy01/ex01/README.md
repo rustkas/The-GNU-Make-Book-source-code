@@ -1,0 +1,1 @@
+The `MAKE_VERSION` variable contains the version number of GNU make
