@@ -10,3 +10,7 @@ This is code examples based on ["The GNU Make Book"](https://nostarch.com/gnumak
 
 [Author's site](https://www.jgc.org/)
 [Author's Github](https://github.com/jgrahamc)
+
+## Reviews
+- [Edgar R. Chavez, **Computing Reviews**](https://computingreviews.com/review/Review_review.cfm?review_id=143667&listname=search)
+- [Sandra Henry-Stocker, **IT World**](https://www.networkworld.com/article/2920894/the-gnu-make-book.html)
