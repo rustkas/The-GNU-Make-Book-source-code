@@ -10,4 +10,5 @@ FEATURE_LIST := $(sort $(.FEATURES))
 
 all: $(FEATURE_LIST)
 
-$(FEATURE_LIST): ; @echo $@ are $(if $(call is_feature,$@), , not )available
+$(FEATURE_LIST): ITEM = $@
+$(FEATURE_LIST): ; @echo $(ITEM) are $(if $(call is_feature,$(ITEM)), , not )available

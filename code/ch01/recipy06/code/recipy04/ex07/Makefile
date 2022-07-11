@@ -1,7 +1,7 @@
 EMPTY =
 VAR = $(EMPTY)
 ifdef VAR
-$(info VAR is defined)
+$(info VAR is defined [$(VAR)])
 else
-$(info VAR is not defined)
+$(info VAR is not defined [$(VAR)])
 endif

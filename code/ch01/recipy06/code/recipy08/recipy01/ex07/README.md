@@ -1,0 +1,6 @@
+# .DEFAULT_GOAL
+
+```
+$ make
+
+```

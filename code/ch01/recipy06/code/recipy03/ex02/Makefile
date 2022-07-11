@@ -1,5 +1,6 @@
+T := true
 eval_available :=
-$(eval eval_available := T)
+$(eval eval_available = T)
 #$(eval eval_available := true)
 
 ifneq ($(eval_available),T)
