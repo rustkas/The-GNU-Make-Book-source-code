@@ -1,4 +1,4 @@
-.INCLUDE_DIRS := /usr/include
+#.INCLUDE_DIRS := /usr/include
 
 $(info $(.INCLUDE_DIRS))
 

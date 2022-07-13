@@ -1,0 +1,6 @@
+# accert_exists
+
+```
+$ make
+
+```
